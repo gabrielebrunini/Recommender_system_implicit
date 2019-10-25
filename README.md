@@ -4,7 +4,7 @@ Dataset: [Google Analytics Database](https://support.google.com/analytics/answer
 
 If you want to have more information on how to set up your Google Bigquery account and access this dataset, check out the [documentation](https://cloud.google.com/bigquery/docs/) - it's well-made and it allows you to get started in a few minutes!
 
-The Jupyter Notebook contains a brief guide to the implementation of two popular implicit recommender systems, namely Alternating Least Squares (ALS) and Bayesian Personalized Ranking (BPR) for implicit feedback datasets. The notebook also contains a brief mathematical explanation of how the methods work.
+The Jupyter Notebook contains a brief guide to the implementation of two popular recommender systems, namely Alternating Least Squares (ALS) and Bayesian Personalized Ranking (BPR) for implicit feedback datasets. The notebook also contains a brief mathematical explanation of how the methods work.
 
 Here's a brief explanation of the dataset (taken from Google description): <br><br>
 
