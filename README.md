@@ -15,3 +15,4 @@ Here's a brief explanation of the dataset (taken from Google description): <br><
 - Transactional data: information about the transactions that occur on the Google Merchandise Store website."
 
 Note: You can either choose to take the datasets directly from the repository ([df.csv](https://github.com/gabrielebrunini/Recommender_system_implicit/blob/master/df.csv) and [item_names.csv](https://github.com/gabrielebrunini/Recommender_system_implicit/blob/master/item_names.csv) files) or you can choose to get it from Google Bigquery using a couple of SQL queries, which you can find in the notebook file (preferred if you are not familiar with it and want to practice a bit).
+If you want to know more about how to create Google project and service account keys, follow this [link](https://cloud.google.com/storage/docs/projects)
